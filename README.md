@@ -1,4 +1,4 @@
-# chatgptapp
+# ChatGpt App Using OpenAi Api
 
 A new Flutter project.
 
